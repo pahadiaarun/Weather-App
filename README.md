@@ -1,4 +1,4 @@
-![Application screenshot]([screenshot/Screenshot 0.png](https://github.com/pahadiaarun/Weather-App/blob/edd26cc598e4ed8a2c70cd7a85064660a844b5ef/screenshot/Screenshot%200.jpg))
+![Application screenshot](screenshot/Screenshot%200.jpg)
 
 <br/>
 
