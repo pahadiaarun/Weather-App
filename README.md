@@ -21,6 +21,20 @@ Link: https://guileless-melomakarona-bdcc2f.netlify.app/
 - CSS
 - Weather forecast API and Geolocation API
 
+# Getting Started
+
+- Make sure you already have `Node.js` and `npm` installed in your system.
+- You need an API key from [OpenWeatherMap](https://openweathermap.org/). After creating an account, [grab your key](https://home.openweathermap.org/api_keys).
+- Then, under the `src` directory, go to `App.js` and replace `API_KEY` with your OpenWeatherMap API Key.
+
+# Install
+
+- Clone the repository:
+
+```bash
+git clone https://github.com/pahadiaarun/Weather-App
+
+
 ## Todos
 
 - [ ] Implement an auto-complete feature for the city name input field (90% done).
