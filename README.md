@@ -20,6 +20,7 @@ Link: https://guileless-melomakarona-bdcc2f.netlify.app/
 - HTML
 - CSS
 - Weather forecast API and Geolocation API
+- Tailwind CSS
 
 # Getting Started
 
