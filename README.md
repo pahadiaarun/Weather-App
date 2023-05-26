@@ -8,7 +8,7 @@
 
 Link: https://guileless-melomakarona-bdcc2f.netlify.app/
 
--This is a weather application developed with React that utilizes APIs to provide real-time weather information.
+- This is a weather application developed with React that utilizes APIs to provide real-time weather information.
 
 # Features
 - Display the current weather forecast based on the user's location.
