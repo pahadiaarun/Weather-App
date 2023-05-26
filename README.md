@@ -29,10 +29,11 @@ Link: https://guileless-melomakarona-bdcc2f.netlify.app/
 
 # Install
 
-- Clone the repository:
-
-```bash
+```
 git clone https://github.com/pahadiaarun/Weather-App
+npm install
+npm start
+```
 
 
 ## Todos
